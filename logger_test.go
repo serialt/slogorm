@@ -1,4 +1,4 @@
-package slogGorm
+package slogorm
 
 import (
 	"context"

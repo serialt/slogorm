@@ -1,4 +1,4 @@
-module github.com/serialt/slog-gorm
+module github.com/serialt/slogorm
 
 go 1.21
 
